@@ -22,8 +22,9 @@
 
 - I am Abdulrahman Awad, a versatile software developer with expertise in various programming languages such as Python, Java, C, JavaScript, HTML, and CSS. I have hands-on experience with GitLab for version control and collaborative development, Docker for containerized application deployment, and VS Code as an efficient coding environment. Additionally, I am skilled in IntelliJ for Java development, Tkinter for building user interfaces, and JavaFX for creating visually appealing UIs. I have actively contributed to projects on GitHub and have knowledge of Robot Framework for test automation. My experience as a Delivery Automation Software Developer Intern at Nokia further honed my skills in Python, Docker, Linux, GitLab, and Robot Framework. Alongside a talented team, I gained practical expertise in version control, collaborative development, containerized application deployment, and test automation. I am pursuing a Bachelor's Degree in Computer Science with a specialization in A.I and Machine Learning at Carleton University, where I have developed a strong foundation in computer science principles, algorithms, and data structures. Through coursework and hands-on projects, I have sharpened my problem-solving abilities and analytical thinking. I am passionate about creating innovative solutions and look forward to exploring new opportunities in software development.
       
-Feel free to connect with me and explore my projects on GitHub. Let's collaborate and create innovative solutions together!
-
+---
+## Projects:
+- Link: https://github.com/AbduAwad/AbduAwad/projects
 
 
 
