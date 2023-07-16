@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     <a/>
   </div>
-      <img src="https://komarev.com/ghpvc/?username=AbduAwad&style=flat-square&color=blue" alt=""/>
+      <img src="https://komarev.com/ghpvc/?username=AbduAwad2&style=flat-square&color=blue" alt=""/>
 </div>
       
 ---
