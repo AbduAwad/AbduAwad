@@ -49,6 +49,7 @@
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbduAwad&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
