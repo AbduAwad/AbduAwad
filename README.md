@@ -27,7 +27,7 @@
       
 ---
 ## Projects/Repositories:
-- Link: [https://github.com/AbduAwad/AbduAwad/projects](https://github.com/AbduAwad?tab=repositories)
+- Link: [https://github.com/AbduAwad/AbduAwad/repositories](https://github.com/AbduAwad?tab=repositories)
 
 
 
