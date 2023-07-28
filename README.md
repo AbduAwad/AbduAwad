@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" width="500" height="100"/>
+   <img src="./github-header-image.png" alt=""/>
   <br>
   <div id="badges">
      <br>
