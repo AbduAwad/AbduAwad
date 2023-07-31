@@ -1,5 +1,4 @@
 <div id="header" align="center">
-   <img src="./github-header-image (6).png" alt=""/>
   <br>
   <div id="badges">
      <br>
