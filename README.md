@@ -41,7 +41,6 @@ if __name__ == "__main__":
     abdulrahman = AbdulrahmanAwad()
     print(abdulrahman)
     print("Skills:", ", ".join(abdulrahman.skills))
-    print("Experience:", ", ".join(abdulrahman.experience))
     print("Education:", abdulrahman.education)
     print("Interests:", ", ".join(abdulrahman.interests))
 
