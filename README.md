@@ -28,42 +28,31 @@
 ## :man_technologist: About Me :
 
 ```Python
-class SoftwareDeveloper:
-    def __init__(self, name, languages, tools, experience, contributions):
-        self.name = name
-        self.languages = languages
-        self.tools = tools
-        self.experience = experience
-        self.contributions = contributions
+class AbdulrahmanAwad:
+
+    def __init__(self):
+        self.name, self.title = "Abdulrahman Awad", "Versatile Software Developer"
+        self.skills, self.education, self.interests = ["Python", "Java", "C", "JavaScript", "HTML", "CSS"], "BSc in Computer Science (AI & ML)", ["AI-driven Apps", "Open-Source Contributions", "Creative Problem Solving"]
 
     def __str__(self):
-        return f"I'm {self.name}, a versatile software developer proficient in {', '.join(self.languages)}. " \
-               f"I have hands-on experience with {', '.join(self.tools)} for collaborative development and efficient coding. " \
-               f"Skilled in {', '.join(self.experience)}, I create visually appealing UIs. " \
-               f"Actively contributing to open-source GitHub projects, I'm familiar with {self.contributions} for test automation."
-
+        return f"{self.name} - {self.title}"
 
 if __name__ == "__main__":
-    name = "Abdulrahman Awad"
-    languages = ["Python", "Java", "C", "JavaScript", "HTML", "CSS"]
-    tools = ["GitLab", "Docker", "VS Code"]
-    experience = ["IntelliJ", "Tkinter", "JavaFX"]
-    contributions = "Robot Framework"
+    abdulrahman = AbdulrahmanAwad()
+    print(abdulrahman)
+    print("Skills:", ", ".join(abdulrahman.skills))
+    print("Experience:", ", ".join(abdulrahman.experience))
+    print("Education:", abdulrahman.education)
+    print("Interests:", ", ".join(abdulrahman.interests))
 
-    software_developer = SoftwareDeveloper(name, languages, tools, experience, contributions)
+# -------------------------------------------------------------------------------------------------
+# Output:
+# -------------------------------------------------------------------------------------------------
+# Abdulrahman Awad - Versatile Software Developer
+# Skills: Python, Java, C, JavaScript, HTML, CSS
+# Education: BSc in Computer Science (AI & ML)
+# Interests: AI-driven Apps, Open-Source Contributions, Creative Problem Solving
 
-    print(software_developer)
-
-    # Additional Information
-    internship = "Delivery Automation Software Developer Intern at Nokia"
-    education = "Bachelor's Degree in Computer Science at Carleton University, specializing in A.I and Machine Learning."
-    foundation = "I've built a strong foundation in computer science principles, algorithms, and data structures."
-    interests = "Passionate about innovation, I'm eager to explore new software development opportunities."
-
-    print("Internship:", internship)
-    print("Education:", education)
-    print("Foundation:", foundation)
-    print("Interests:", interests)
 
 ```
 ---
