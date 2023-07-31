@@ -1,7 +1,13 @@
+
+      
+---
+<h1 align="center">Hi 👋, I'm Abdulrahman Awad</h1>
+<h3 align="center">A passionate software developer and student at Carleton University</h3>
+
+---
+
 <div id="header" align="center">
-  <br>
   <div id="badges">
-     <br>
     <a href="https://www.linkedin.com/in/abdulrahmansawad/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     <a/>
@@ -14,10 +20,6 @@
   </div>
       <img src="https://komarev.com/ghpvc/?username=AbduAwad2&style=flat-square&color=blue" alt=""/>
 </div>
-      
----
-<h1 align="center">Hi 👋, I'm Abdulrahman Awad</h1>
-<h3 align="center">A passionate software developer and student at Carleton University</h3>
 
 ---
 ## :man_technologist: About Me :
