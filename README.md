@@ -2,6 +2,9 @@
       
 ---
 <h1 align="center">Hi 👋, I'm Abdulrahman Awad</h1>
+
+---
+
 <h3 align="center">A passionate software developer and student at Carleton University</h3>
 
 ---
