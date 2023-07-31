@@ -27,8 +27,45 @@
 ---
 ## :man_technologist: About Me :
 
-- I'm Abdulrahman Awad, a versatile software developer proficient in Python, Java, C, JavaScript, HTML, and CSS. I have hands-on experience with GitLab, Docker, and VS Code for collaborative development and efficient coding. Skilled in IntelliJ, Tkinter, and JavaFX, I create visually appealing UIs. Actively contributing to open-source GitHub projects, I'm familiar with Robot Framework for test automation. As a Delivery Automation Software Developer Intern at Nokia, I honed my skills in Python, Docker, Linux, GitLab, and Robot Framework. Pursuing a Bachelor's Degree in Computer Science at Carleton University, specializing in A.I and Machine Learning, I've built a strong foundation in computer science principles, algorithms, and data structures. Passionate about innovation, I'm eager to explore new software development opportunities.
-      
+```Python
+class SoftwareDeveloper:
+    def __init__(self, name, languages, tools, experience, contributions):
+        self.name = name
+        self.languages = languages
+        self.tools = tools
+        self.experience = experience
+        self.contributions = contributions
+
+    def __str__(self):
+        return f"I'm {self.name}, a versatile software developer proficient in {', '.join(self.languages)}. " \
+               f"I have hands-on experience with {', '.join(self.tools)} for collaborative development and efficient coding. " \
+               f"Skilled in {', '.join(self.experience)}, I create visually appealing UIs. " \
+               f"Actively contributing to open-source GitHub projects, I'm familiar with {self.contributions} for test automation."
+
+
+if __name__ == "__main__":
+    name = "Abdulrahman Awad"
+    languages = ["Python", "Java", "C", "JavaScript", "HTML", "CSS"]
+    tools = ["GitLab", "Docker", "VS Code"]
+    experience = ["IntelliJ", "Tkinter", "JavaFX"]
+    contributions = "Robot Framework"
+
+    software_developer = SoftwareDeveloper(name, languages, tools, experience, contributions)
+
+    print(software_developer)
+
+    # Additional Information
+    internship = "Delivery Automation Software Developer Intern at Nokia"
+    education = "Bachelor's Degree in Computer Science at Carleton University, specializing in A.I and Machine Learning."
+    foundation = "I've built a strong foundation in computer science principles, algorithms, and data structures."
+    interests = "Passionate about innovation, I'm eager to explore new software development opportunities."
+
+    print("Internship:", internship)
+    print("Education:", education)
+    print("Foundation:", foundation)
+    print("Interests:", interests)
+
+```
 ---
 ## Projects/Repositories:
 - Link: [https://github.com/AbduAwad/AbduAwad/repositories](https://github.com/AbduAwad?tab=repositories)
