@@ -32,7 +32,9 @@ class AbdulrahmanAwad:
 
     def __init__(self):
         self.name, self.title = "Abdulrahman Awad", "Versatile Software Developer"
-        self.skills, self.education, self.interests = ["Python", "Java", "C", "JavaScript", "HTML", "CSS"], "BSc in Computer Science (AI & ML)", ["AI-driven Apps", "Open-Source Contributions", "Creative Problem Solving"]
+        self.skills = ["Python", "Java", "C", "JavaScript", "HTML", "CSS"]
+        self.education = "BSc in Computer Science (AI & ML)"
+        self.interests = ["AI-driven Apps", "Open-Source Contributions", "Creative Problem Solving"]
 
     def __str__(self):
         return f"{self.name} - {self.title}"
