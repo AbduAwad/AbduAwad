@@ -39,6 +39,7 @@ class AbdulrahmanAwad:
     def __str__(self):
         return f"{self.name} - {self.title}"
 
+
 abdulrahman = AbdulrahmanAwad()
 print(abdulrahman)
 print("Skills:", ", ".join(abdulrahman.skills))
