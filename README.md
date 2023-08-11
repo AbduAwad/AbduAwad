@@ -39,20 +39,11 @@ class AbdulrahmanAwad:
     def __str__(self):
         return f"{self.name} - {self.title}"
 
-if __name__ == "__main__":
-    abdulrahman = AbdulrahmanAwad()
-    print(abdulrahman)
-    print("Skills:", ", ".join(abdulrahman.skills))
-    print("Education:", abdulrahman.education)
-    print("Interests:", ", ".join(abdulrahman.interests))
-
-# -------------------------------------------------------------------------------------------------
-# Output:
-# -------------------------------------------------------------------------------------------------
-# Abdulrahman Awad - Versatile Software Developer
-# Skills: Python, Java, C, JavaScript, HTML, CSS
-# Education: BSc in Computer Science (AI & ML)
-# Interests: AI-driven Apps, Open-Source Contributions, Creative Problem Solving
+abdulrahman = AbdulrahmanAwad()
+print(abdulrahman)
+print("Skills:", ", ".join(abdulrahman.skills))
+print("Education:", abdulrahman.education)
+print("Interests:", ", ".join(abdulrahman.interests))
 
 
 ```
