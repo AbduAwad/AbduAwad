@@ -11,8 +11,8 @@ I am a passionate software developer and student at Carleton University interest
 ---
 📫 **Contact Me:**  
 - 📧 Email: abdulrahmansawad@gmail.com
-- 📝 LinkedIn: [linkedin.com/in/abdulrahmansawad](https://www.linkedin.com/in/abdulrahmansawad)  
-- 📁 GitHub: [github.com/AbduAwad](https://github.com/AbduAwad)
+- 📝 LinkedIn: [linkedin.com/in/abdulrahmansawad](https://www.linkedin.com/in/abdulrahmansawad)
+  
 ---
 💻 **Projects/Repositories:**
 - Projects: [https://github.com/AbduAwad/AbduAwad/repositories](https://github.com/AbduAwad?tab=repositories)
