@@ -6,7 +6,7 @@
 ---
 🙂 **About Me**
 
-I am a passionate software developer and student at Carleton University interested in multiple fields in tech, including but not limited to, Artificial Intelligence Machine Learning, Automation, Scripting, etc ... </h3>
+I am a passionate software developer and student at Carleton University interested in multiple fields in tech, including but not limited to: Artificial Intelligence, Machine Learning, Automation, Scripting, and more.</h3>
 
 ---
 📫 **Contact Me:**  
