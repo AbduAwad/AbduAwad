@@ -14,7 +14,7 @@ I am a passionate software developer and student at Carleton University interest
 - 📝 LinkedIn: [linkedin.com/in/abdulrahmansawad](https://www.linkedin.com/in/abdulrahmansawad)
   
 ---
-💻 **Projects/Repositories:**
+💻 **Projects:**
 - Projects: [https://github.com/AbduAwad/AbduAwad/repositories](https://github.com/AbduAwad?tab=repositories)
 - Personal Portfolio Website: [https://abduawad.github.io](https://abduawad.github.io)
       
@@ -28,7 +28,7 @@ I am a passionate software developer and student at Carleton University interest
 
 ---
 
-♾️ **My Stats:**
+📈 **My Stats:**
       
 <center>
     <a href="https://git.io/streak-stats">
