@@ -4,7 +4,7 @@
 # Hi 👋, I'm Abdulrahman Awad</h1>
 
 ---
-👀 **About Me**
+🙂 **About Me**
 
 I am a passionate software developer and student at Carleton University interested in multiple fields in tech, including but not limited to, Artificial Intelligence Machine Learning, Automation, Scripting, etc ... </h3>
 
@@ -15,7 +15,8 @@ I am a passionate software developer and student at Carleton University interest
 - 📁 GitHub: [github.com/AbduAwad](https://github.com/AbduAwad)
 ---
 💻 **Projects/Repositories:**
-- Link: [https://github.com/AbduAwad/AbduAwad/repositories](https://github.com/AbduAwad?tab=repositories)
+- Projects: [https://github.com/AbduAwad/AbduAwad/repositories](https://github.com/AbduAwad?tab=repositories)
+- Personal Portfolio Website: [https://abduawad.github.io](https://abduawad.github.io)
       
 ---
 
